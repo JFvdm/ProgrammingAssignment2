@@ -1,8 +1,8 @@
 ## The below functions calculate and stores the inverse of a matrix and
-## stores it in cache so that it is unnecesary to recalculate the inverse
-## constantly
+## Stores it in cache so that it is unnecesary to recalculate the inverse
+## constantly.
 
-## requires a inversible matrix as input.creates a list which stores
+## Requires an inversible matrix as input. Creates a list which stores
 ## the functions to set and get the value of the matrix, and 
 ## furthtermore sets and gets the the value of the inverse of the matrix
 
